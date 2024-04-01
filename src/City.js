@@ -21,7 +21,7 @@ export default function (props) {
       ariaLabel="vortex-loading"
       wrapperStyle={{}}
       wrapperClass="vortex-wrapper"
-      colors={["red", "green", "blue", "yellow", "orange", "purple"]}
+      colors={["orange", "green", "blue", "red", "yellow", "purple"]}
     />
   );
 }
