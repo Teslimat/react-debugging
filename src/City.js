@@ -2,7 +2,7 @@ import React from "react";
 import axios from "axios";
 import { Vortex } from "react-loader-spinner";
 
-export default function (props) {
+export default function City(props) {
   function displayWeather(response) {
     // alert(
     //   `The weather in ${response.data.name} is ${response.data.main.temp}°C`
